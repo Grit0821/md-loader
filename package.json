@@ -1,0 +1,18 @@
+{
+  "name": "own-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "Webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-it": "^12.0.6",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
